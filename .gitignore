@@ -1,0 +1,5 @@
+.vscode
+node_modules
+test
+fastapiboilerplate-1.0.0.vsix
+package-lock.json
